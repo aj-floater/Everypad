@@ -1,0 +1,6 @@
+{
+    "sketch": "main.ino",
+    "board": "arduino:mbed_nano:nano33ble",
+    "programmer": "arduino:stlink",
+    "port": "/dev/tty.usbmodem142101"
+}

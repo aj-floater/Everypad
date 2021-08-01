@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.ino": "arduino",
+        "cstddef": "cpp",
+        "string": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}
