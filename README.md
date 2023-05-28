@@ -1,5 +1,7 @@
 # Everypad Arduino Code
-![IMG_1499](https://github.com/aj-floater/Everypad/assets/80073564/89200844-4ed7-4aab-82a8-f4f161d8d718)
+
+![IMG_1499](https://github.com/aj-floater/Everypad/assets/80073564/9805f9a3-6e93-44c4-b0c6-3185f18d3d7c)
+
 
 This repository contains Arduino code for the Everypad project. The code is designed to run on an Arduino Nano 33 BLE board and control the Everypad device.
 
